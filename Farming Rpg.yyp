@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "24c024b5-5f85-463d-8ea6-9e6398a9e99d",
+            "Value": {
+                "id": "9f85111a-345f-4864-987e-4d50a5278195",
+                "resourcePath": "tilesets\\tile_terrain\\tile_terrain.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "2ee93975-b2ab-4c00-a32b-1654355857e0",
+            "Value": {
+                "id": "9c55902f-9e03-4f34-b822-6fd6fa1cde1e",
+                "resourcePath": "sprites\\spr_tile_terrain\\spr_tile_terrain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3521e160-a10f-4c7f-9baa-12397fa1ae59",
             "Value": {
                 "id": "cea34933-4c72-4687-ab65-f3d5f634ee24",
@@ -92,6 +108,14 @@
                 "id": "8d20b054-e872-442e-9de9-8ba89622bab5",
                 "resourcePath": "views\\3535619c-d9b2-4737-b343-079b298efa92.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35d11d11-d29f-4ff2-86fa-77a84c00d1a4",
+            "Value": {
+                "id": "20cb5379-a5bc-4a73-a614-4181f5f1f868",
+                "resourcePath": "tilesets\\tile_cottage\\tile_cottage.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "fcf5bf30-0bd2-4f4f-8e8e-b483fbe77a22",
                 "resourcePath": "views\\662eea66-de38-4851-b726-227e89246a78.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ab9be0e-9741-43c8-90a2-4cb1fe5c3b51",
+            "Value": {
+                "id": "5941c477-24f0-4e47-8e33-9f44a0434b7c",
+                "resourcePath": "sprites\\spr_tile_cottage\\spr_tile_cottage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -196,6 +228,14 @@
                 "id": "35bcb41b-cc4f-4928-916a-b0959dc133ae",
                 "resourcePath": "sprites\\spr_hair_male_messy_raven\\spr_hair_male_messy_raven.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a5a37ad1-1f4f-419f-b224-e0b7f2649226",
+            "Value": {
+                "id": "5cb4481d-26eb-49a1-af13-f68b321216a3",
+                "resourcePath": "objects\\camera\\camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
