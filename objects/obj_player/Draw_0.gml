@@ -12,6 +12,8 @@ else               x_frame = 0;
 var xx = x-x_offset;
 var yy = y-y_offset;
 
+//Draw Character Shadow
+draw_sprite(spr_shadow, 0, x, y);
 
 
 //sprite fps 
