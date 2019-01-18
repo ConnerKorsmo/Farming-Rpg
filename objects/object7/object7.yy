@@ -1,8 +1,8 @@
 {
-    "id": "f69881b3-5686-405a-9244-366deb4c8094",
+    "id": "503538fc-8133-40ce-82e6-de420a5dbd20",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_collision",
+    "name": "object7",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0e7682a6-9952-43c0-8cf6-53c5bc0fb11a",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }

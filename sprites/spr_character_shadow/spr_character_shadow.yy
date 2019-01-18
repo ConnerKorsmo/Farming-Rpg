@@ -2,7 +2,7 @@
     "id": "afd0cc73-5b00-4ac6-910d-5525453ffb4b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_shadow",
+    "name": "spr_character_shadow",
     "For3D": false,
     "HTile": false,
     "VTile": false,

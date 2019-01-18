@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "503538fc-8133-40ce-82e6-de420a5dbd20",
+            "Value": {
+                "id": "856dbd28-e783-464b-a533-e20aa7be3c2f",
+                "resourcePath": "objects\\object7\\object7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53730a78-eaf7-4eeb-8025-e37ce6ad246c",
             "Value": {
                 "id": "3fcf2cbf-789d-4b0c-ac33-8ca4f98bb3e0",
@@ -162,7 +170,7 @@
             "Key": "65e6df31-47ac-4791-ac86-6202be02c2f2",
             "Value": {
                 "id": "893eee69-d914-445e-9431-c59b87ad3b7b",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -298,7 +306,7 @@
             "Key": "afd0cc73-5b00-4ac6-910d-5525453ffb4b",
             "Value": {
                 "id": "edadda71-31c4-433e-aa16-28f591cae587",
-                "resourcePath": "sprites\\spr_shadow\\spr_shadow.yy",
+                "resourcePath": "sprites\\spr_character_shadow\\spr_character_shadow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -308,6 +316,14 @@
                 "id": "b1091770-85fb-4a08-91e6-122d2d20528d",
                 "resourcePath": "views\\b31f0c8f-7801-4965-9461-34594fdb4545.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b467e5da-c0fd-4877-82e3-57b4f1743053",
+            "Value": {
+                "id": "53851c1c-fe11-40c2-8062-e8c89c8890ad",
+                "resourcePath": "objects\\game\\game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -418,7 +434,7 @@
             "Key": "f1410c9b-5c3f-4472-bc26-64cee741883d",
             "Value": {
                 "id": "532f21cf-5fbe-4ad6-8501-a271a9e2abe4",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\rm_0\\rm_0.yy",
                 "resourceType": "GMRoom"
             }
         },

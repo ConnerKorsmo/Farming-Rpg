@@ -1,54 +1,44 @@
 {
-    "id": "7d649a2d-ce54-47de-a1ae-585856d6708e",
+    "id": "b467e5da-c0fd-4877-82e3-57b4f1743053",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_parent_npc",
+    "name": "game",
     "eventList": [
         {
-            "id": "1ef761a8-061f-4109-a5a7-74516822f5cd",
+            "id": "ccf16d49-c408-4b70-8934-f07185df03ba",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "7d649a2d-ce54-47de-a1ae-585856d6708e"
+            "m_owner": "b467e5da-c0fd-4877-82e3-57b4f1743053"
         },
         {
-            "id": "daf4570d-df49-4957-80b2-1bd9590397fc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "7d649a2d-ce54-47de-a1ae-585856d6708e"
-        },
-        {
-            "id": "11fb8f9e-9382-4d4f-94b1-2310ac054b57",
+            "id": "3961203c-e469-40b8-82d8-c07610d2ad41",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "7d649a2d-ce54-47de-a1ae-585856d6708e"
+            "m_owner": "b467e5da-c0fd-4877-82e3-57b4f1743053"
         },
         {
-            "id": "03d88011-a121-4924-8a84-9e016911ff2b",
+            "id": "f4030901-cf8e-4832-b523-8d76ce9e192f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 2,
-            "m_owner": "7d649a2d-ce54-47de-a1ae-585856d6708e"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b467e5da-c0fd-4877-82e3-57b4f1743053"
         }
     ],
-    "maskSpriteId": "88c713a1-0f7c-4276-954b-6f1a1161e144",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "f69881b3-5686-405a-9244-366deb4c8094",
-    "persistent": false,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
